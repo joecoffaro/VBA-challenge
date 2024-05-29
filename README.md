@@ -1,1 +1,24 @@
-vba read me 
+In this homeword challenge I was tasked with a few things 
+
+in the resource file, there is a csv file containing stock data, the goal of this challenge is to:
+
+Create a script that loops through all the stocks for each quarter and outputs the following information:
+The ticker symbol
+Quarterly change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
+The percentage change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
+The total stock volume of the stock
+
+In addition
+
+Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume"
+
+Lastly Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter) at once.
+
+Other Considerations
+Use the sheet alphabetical_testing.xlsx while developing your code. This dataset is smaller and will allow you to test faster. Your code should run on this file in just a few seconds.
+
+Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.
+
+The script of my testing code is test_module.bas
+the main script of my code final_module.bas
+screenshot of my results is Screenshot 2024-05-29 125456.png
