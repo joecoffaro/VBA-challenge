@@ -1,4 +1,4 @@
-In this homeword challenge I was tasked with a few things 
+In this homework challenge I was tasked with a few things 
 
 in the resource file, there is a csv file containing stock data, the goal of this challenge is to:
 
